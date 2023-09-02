@@ -1,0 +1,1 @@
+objcopy.exe --gap-fill 0xFF --pad-to 0x040000 -I ihex DIYRuZ_Geiger_Router_MS1PA2.hex -O binary DIYRuZ_Geiger_Router_MS1PA2.bin
