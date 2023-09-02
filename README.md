@@ -12,6 +12,9 @@ Alternative Zigbee firmware for some devices
 Проект [DIYRuZ_FreePad](https://modkam.ru/2019/11/13/pult-zigbee-v2-prosto-otlomi-lishnee/)
 2.0.7 под модуль E18-MS1PA2, оригинальная - ___не проверена___.
 
+Проект [DIYRuZ_FreePad](https://modkam.ru/2019/11/13/pult-zigbee-v2-prosto-otlomi-lishnee/)
+2.0.7 под модуль E18-MS1PA2, ___PM3___ оригинальная - ___не проверена___.
+
 # CC Loader
 Мой метод прошивки модулей СС2530. Дебагера у меня нет, малинку я не стал разбирать, а через [VLK DIY Multi Flasher](https://zigbee.wiki/books/прошивки/page/vlk-diy-multi-flasher) 
 мне прошить не удалось (на 50-80% прогресса ошибка)
