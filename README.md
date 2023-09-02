@@ -8,8 +8,9 @@ Alternative Zigbee firmware for some devices
 
 Проект [DIYRuZ_Geiger](https://modkam.ru/2020/06/05/indikator-radioaktivnosti-zigbee/)
 1.0.8 под модуль E18-MS1PA2, оригинальная - проверена мной.
+
 Проект [DIYRuZ_FreePad](https://modkam.ru/2019/11/13/pult-zigbee-v2-prosto-otlomi-lishnee/)
-2.0.7 под модуль E18-MS1PA2, оригинальная - не проверена.
+2.0.7 под модуль E18-MS1PA2, оригинальная - ___не проверена___.
 
 # CC Loader
 Мой метод прошивки модулей СС2530. Дебагера у меня нет, малинку я не стал разбирать, а через [VLK DIY Multi Flasher](https://zigbee.wiki/books/прошивки/page/vlk-diy-multi-flasher) 
